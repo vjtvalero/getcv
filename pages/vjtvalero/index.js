@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import ReactMarkdown from 'react-markdown'
 import matter from 'gray-matter'
+import Link from 'next/link'
 
 export default function CV({ content, data }) {
     return (
@@ -11,11 +12,10 @@ export default function CV({ content, data }) {
             </Head>
             <div className="container">
                 <div style={{ float: 'right' }}>
-                    <a href="#!">Download</a>
+                    <a href="#!" onClick={() => { window.print() }}>Download</a>
                 </div>
                 <ReactMarkdown source={content} escapeHtml={false} />
             </div>
-
             <style jsx>{`
                 .container {
                     padding-left: 1rem;
