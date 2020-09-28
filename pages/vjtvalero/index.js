@@ -12,7 +12,7 @@ export default function CV({ content, data }) {
             </Head>
             <div className="container">
                 <div style={{ float: 'right' }}>
-                    <a href="#!" onClick={() => { window.print() }}>Download</a>
+                    <a href="download/cv-vjtvalero.pdf">Download</a>
                 </div>
                 <ReactMarkdown source={content} escapeHtml={false} />
             </div>
@@ -27,10 +27,8 @@ export default function CV({ content, data }) {
                 html, body {
                     padding: 0;
                     margin: 0;
-                    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-                        Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
-                        sans-serif;
-                    font-size: 10pt;
+                    font-family: Cambria, Times New Roman, Linux Libertine, serif;
+                    font-size: 11pt;
                 }
                 * {
                     box-sizing: border-box;
