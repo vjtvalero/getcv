@@ -2,7 +2,7 @@
 title: GetCV | vjtvalero
 ---
 ## Vincent James Valero
-##### vjtvalero@gmail.com
+#### [vjtvalero@gmail.com](mailto:vjtvalero@gmail.com)
 ---
 ### Software Developer
 Experienced Full Stack Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Web Application Development.
@@ -34,8 +34,7 @@ Experienced in creating
 
 ## <center>Professional Experience</center>
 ---
-Full Stack Web Developer
----
+### Full Stack Web Developer
 #### Clickplay Sportsgame Corporation
 ##### Jun 2019 - Present
 - Maintaining and creating features for a web-based sports betting & casino for clients in Southeast Asia.
@@ -51,8 +50,7 @@ Full Stack Web Developer
 <br/>
 
 ---
-Lead Developer
-----
+### Lead Developer
 #### Freelance - Online Learning for Kids
 ##### May 2020 - Present
 - Designs the frontend and backend architecture (React, NodeJS, Fastify)
@@ -63,12 +61,9 @@ Lead Developer
 <br/>
 
 ---
-Full Stack Web Developer
----
+### Full Stack Web Developer
 #### CloudPanda PH Inc.
 ##### Jun 2018 - Jun 2019 (1 year)
-#### Built web and mobile apps for small to medium businesses.
-
 
 #### Admin System for an E-Wallet app
 - Developed the frontend side (Angular, GraphQL)
@@ -103,8 +98,7 @@ About the project
 <br/>
 
 ---
-Information Technology Officer
----
+### Information Technology Officer
 #### Department of Social Welfare and Development
 ##### Jul 2014 – Jun 2018 (4 years)
 - Maintained existing systems
@@ -123,8 +117,7 @@ Information Technology Officer
 <br/>
 
 ---
-Web Developer
----
+### Web Developer
 #### Emerson Network Power
 ##### Nov 2013 – Feb 2014 (4 months)
 #### Online Store and Inventory Management System
@@ -136,8 +129,7 @@ Web Developer
 
 ## <center>Education</center>
 ---
-Polytechnic University of the Philippines
----
+### Polytechnic University of the Philippines
 #### Bachelor of Science in Information Technology
 ##### 2010-2014
 #### Thesis
@@ -148,8 +140,7 @@ Polytechnic University of the Philippines
 
 ## <center>Awards</center>
 ---
-[Hack4PH Champion](http://bit.ly/Hack4PH2018)
----
+### [Hack4PH Champion](http://bit.ly/Hack4PH2018)
 #### The 1st Philippine E-Government Innovation Challenge
 ##### Department of Information and Communications Technology, Nov 2018
 Best solution for the Hack2Work: Making Telecommuting Work challenge.
