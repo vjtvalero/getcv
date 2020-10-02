@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import ReactMarkdown from 'react-markdown'
 import matter from 'gray-matter'
-import Link from 'next/link'
 
 export default function CV({ content, data }) {
     return (
@@ -18,9 +17,9 @@ export default function CV({ content, data }) {
             </div>
             <style jsx>{`
                 .container {
-                    padding-left: 1rem;
-                    padding-right: 1rem;
+                    margin: 3rem auto;
                     max-width: 800px;
+                    padding: 0 1rem;
                 }
             `}</style>
             <style jsx global>{`
