@@ -1,8 +1,13 @@
-import Head from 'next/head'
-import ReactMarkdown from 'react-markdown'
-import matter from 'gray-matter'
+import Head from 'next/head';
+import ReactMarkdown from 'react-markdown';
+import matter from 'gray-matter';
 
 export default function CV({ content, data }) {
+    return (
+        <>
+            Site is under maintenance.
+        </>
+    );
     return (
         <>
             <Head>
@@ -41,14 +46,14 @@ export default function CV({ content, data }) {
                 }
             `}</style>
         </>
-    )
+    );
 }
 
 CV.getInitialProps = async (ctx) => {
-    const content = await import('./cv-vjtvalero.md')
-    const data = matter(content.default)
+    const content = await import('./cv-vjtvalero.md');
+    const data = matter(content.default);
     return {
         ...data
-    }
-}
+    };
+};
 
